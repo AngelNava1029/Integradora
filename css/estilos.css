@@ -1,0 +1,9 @@
+a:link {
+   border: 5px solid #000000; padding: 5px ;text-decoration: none;color: #000000;background-color: #ffffff;
+}
+input {
+   color: green;
+   background-color: lightyellow;
+   border: 2px solid darkgreen;
+   padding: 8px;
+}
